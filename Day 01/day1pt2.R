@@ -49,4 +49,4 @@ answer <- matrix(answer) # Table in which we can see the increases and decreases
 
 write(answer, "day1pt2_answer.txt") # Output where we can see when the measurement increased or decreased.
 
-cat("Numer of times the depth measurement increased: ", j)
+cat("Number of times the depth measurement increased: ", j)

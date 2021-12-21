@@ -1,4 +1,4 @@
-#' --- Day 2: Sonar Sweep pt 1 ---
+#' --- Day 2: Dive! pt 1 ---
 #' https://adventofcode.com/2021/day/2
 #'
 #' It seems like the submarine can take a series of commands:

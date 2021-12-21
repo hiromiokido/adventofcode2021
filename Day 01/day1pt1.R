@@ -44,4 +44,4 @@ write(answer, "day1pt1_answer.txt")
 #' close(teste1pt1)
 
 #cat("Number of lines of the data: ", length)
-cat("Numer of times the depth measurement increased: ", j)
+cat("Number of times the depth measurement increased: ", j)

@@ -1,4 +1,4 @@
-#' --- Day 2: Sonar Sweep pt 2 ---
+#' --- Day 2: Dive! pt 2 ---
 #' https://adventofcode.com/2021/day/2
 #'
 #' In addition to horizontal position and depth, you'll also need to track a
